@@ -16,7 +16,7 @@ It is built using modern web technologies with a focus on real-time communicatio
 * React.js
 * JavaScript (ES6+)
 * CSS / Responsive UI
-* 
+  
 **Backend**
 * Node.js
 * Express.js
