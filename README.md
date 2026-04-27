@@ -45,7 +45,7 @@ ChatWorld/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/nv-aditya1201/ChatWorld.git
-cd Chat_App
+cd ChatWorld
 ```
 ### 2. Install Dependencies
 ```bash
