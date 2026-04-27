@@ -36,11 +36,7 @@ ChatWorld/
 │   ├── public/
 │
 ├── server/              # Backend (Node + Express)
-│   ├── routes/
-│   ├── models/
-│   ├── controllers/
-│   ├── config/
-│
+│  
 ├── package.json
 └── README.md
 ```
